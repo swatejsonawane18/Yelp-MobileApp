@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">assignment9</string>
+    <string name="yelp">Yelp</string>
+    <string name="business_search">Business Search</string>
+    <string name="keyword">KeyWord <font color='#FF0000'>*</font></string>
+    <string name="bookings_icon">bookings_icon</string>
+    <string name="distance">Distance</string>
+    <string name="category">Category <font color='#FF0000'>*</font></string>
+    <string name="location">Location <font color='#FF0000'>*</font></string>
+    <string-array name="categories_dropdown">
+        <item>Default</item>
+        <item>Arts and Entertainment</item>
+        <item>Health and Medical</item>
+        <item>Hotels and Travel</item>
+        <item>Food</item>
+        <item>Professional Services</item>
+    </string-array>
+    <string name="title_activity_business_card">BusinessCard</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
